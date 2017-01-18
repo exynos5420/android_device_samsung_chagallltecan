@@ -1,0 +1,1 @@
+Chagallltecan (SM-T805W) device repo for LineageOS.
